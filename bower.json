@@ -1,0 +1,22 @@
+{
+    "name": "angular-google-maps",
+    "homepage": "https://github.com/emirdeliz/google-maps-custom",
+    "authors": [
+        "Emir Marques <emirdeliz@gmail.com>"
+    ],
+    "description": "angular-google-maps",
+    "main": "",
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": "1.4.0",
+        "angular-google-maps": "2.1.1",
+        "lodash": "2.4.2"
+    }
+}
